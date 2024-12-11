@@ -1,0 +1,17 @@
+{
+  "name": "byl-webhook-signature-check",
+  "version": "1.0.0",
+  "description": "Byl webhook signature checking example.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "Myagmarsuren Sedjav",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  }
+}
